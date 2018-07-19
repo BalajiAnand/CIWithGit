@@ -1,0 +1,13 @@
+D:\Project_Workspace\Dotnet Project\CongruentTraining\WebApplicationSample\bin\WebApplicationSample.dll.config
+D:\Project_Workspace\Dotnet Project\CongruentTraining\WebApplicationSample\bin\WebApplicationSample.dll
+D:\Project_Workspace\Dotnet Project\CongruentTraining\WebApplicationSample\bin\WebApplicationSample.pdb
+D:\Project_Workspace\Dotnet Project\CongruentTraining\WebApplicationSample\obj\Debug\WebApplicationSample.dll
+D:\Project_Workspace\Dotnet Project\CongruentTraining\WebApplicationSample\obj\Debug\WebApplicationSample.pdb
+D:\Project_Workspace\Dotnet Project\CongruentTraining\WebApplicationSample\obj\Debug\WebApplicationSample.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WebApplicationSample\WebApplicationSample\bin\WebApplicationSample.dll.config
+C:\Users\Administrator\Desktop\WebApplicationSample\WebApplicationSample\bin\WebApplicationSample.dll
+C:\Users\Administrator\Desktop\WebApplicationSample\WebApplicationSample\bin\WebApplicationSample.pdb
+C:\Users\Administrator\Desktop\WebApplicationSample\WebApplicationSample\obj\Debug\WebApplicationSample.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\WebApplicationSample\WebApplicationSample\obj\Debug\WebApplicationSample.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WebApplicationSample\WebApplicationSample\obj\Debug\WebApplicationSample.dll
+C:\Users\Administrator\Desktop\WebApplicationSample\WebApplicationSample\obj\Debug\WebApplicationSample.pdb

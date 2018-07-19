@@ -1,0 +1,5 @@
+D:\Project_Workspace\Dotnet Project\CongruentTraining\WebApplicationSample\bin\WebApplicationSample.dll.config
+D:\Project_Workspace\Dotnet Project\CongruentTraining\WebApplicationSample\bin\WebApplicationSample.dll
+D:\Project_Workspace\Dotnet Project\CongruentTraining\WebApplicationSample\bin\WebApplicationSample.pdb
+D:\Project_Workspace\Dotnet Project\CongruentTraining\WebApplicationSample\obj\Release\WebApplicationSample.dll
+D:\Project_Workspace\Dotnet Project\CongruentTraining\WebApplicationSample\obj\Release\WebApplicationSample.pdb
